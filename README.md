@@ -1,10 +1,11 @@
 <div align="center">
 
-# 👋 안녕하세요, 유준석입니다
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=220&section=header&text=Yoo%20Jun%20Seok&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
-**공공인재빅데이터융합학 전공 | 풀스택 개발자 | 데이터 분석가**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%ED%95%9C%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90+%EA%B3%B5%EA%B3%B5%EC%9D%B8%EC%9E%AC%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9C%B5%ED%95%A9%ED%95%99;%EB%81%8A%EC%9E%84%EC%97%86%EC%9D%B4+%EB%B0%B0%EC%9A%B0%EA%B3%A0+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-lilyth--y-181717?style=flat-square&logo=github)](https://github.com/lilyth-y)
+[![GitHub](https://img.shields.io/badge/GitHub-lilyth--y-181717?style=for-the-badge&logo=github)](https://github.com/lilyth-y)
+![Profile Views](https://komarev.com/ghpvc/?username=lilyth-y&style=for-the-badge&color=70a5fd)
 
 </div>
 
@@ -19,31 +20,31 @@
 ## 🛠️ 기술 스택
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Mobile
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Data & AI
-![Python](https://img.shields.io/badge/Data_Analysis-3776AB?style=flat-square&logo=python&logoColor=white)
-![BigData](https://img.shields.io/badge/Big_Data-FF6F00?style=flat-square&logo=apache&logoColor=white)
+![Python](https://img.shields.io/badge/Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![BigData](https://img.shields.io/badge/Big_Data-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
 
 ### Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -142,7 +143,21 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilyth-y&show_icons=true&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lilyth-y&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilyth-y&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lilyth-y&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lilyth-y&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -150,16 +165,16 @@
 
 ## 📬 연락처
 
-[![GitHub](https://img.shields.io/badge/GitHub-lilyth--y-181717?style=flat-square&logo=github)](https://github.com/lilyth-y)
-<!-- [![Email](https://img.shields.io/badge/Email-your@email.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com) -->
-<!-- [![Blog](https://img.shields.io/badge/Blog-your.blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://your.blog) -->
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-lilyth--y-181717?style=for-the-badge&logo=github)](https://github.com/lilyth-y)
+<!-- [![Email](https://img.shields.io/badge/Email-your@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com) -->
+<!-- [![Blog](https://img.shields.io/badge/Blog-your.blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://your.blog) -->
+
+</div>
 
 > 이메일, 블로그 등 추가 연락처가 있으면 위 주석을 해제하고 수정해주세요.
 
 ---
 
-<div align="center">
-
-*끊임없이 배우고 성장하는 개발자가 되겠습니다.* 🚀
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=120&section=footer" width="100%" />
