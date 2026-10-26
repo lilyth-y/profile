@@ -103,7 +103,8 @@
 
 ---
 
-## 📋 교내 활동
+<details>
+<summary><h2>📋 교내 활동 (클릭하여 펼치기)</h2></summary>
 
 ### 2025
 
@@ -135,6 +136,8 @@
 | 2학기 | 아이디어 공모전 돌아봄 | 2021.11 ~ 2021.12 | 교수학습지원센터 |
 | 겨울학기 | 한신ABC캠프 (ABC View & Do!) | 2022.01 | AI빅데이터센터 |
 
+</details>
+
 ---
 
 ## 📊 GitHub Stats
@@ -161,6 +164,18 @@
 
 </div>
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lilyth-y/profile/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lilyth-y/profile/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/lilyth-y/profile/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ---
 
 ## 📬 연락처
@@ -176,5 +191,11 @@
 > 이메일, 블로그 등 추가 연락처가 있으면 위 주석을 해제하고 수정해주세요.
 
 ---
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=120&section=footer" width="100%" />
