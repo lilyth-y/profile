@@ -15,6 +15,16 @@
 
 한신대학교 공공인재학부(공공인재빅데이터융합학) 전공으로, 웹 개발부터 데이터 분석, 게임 개발, AI 시뮬레이션까지 폭넓은 기술 경험을 보유하고 있습니다. 다양한 프로젝트를 통해 **풀스택 개발**과 **빅데이터 분석** 역량을 키워왔습니다.
 
+### 핵심 역량
+
+```
+🌐 풀스택 웹 개발    React · TypeScript · Node.js · HTML/CSS
+📊 빅데이터 분석     Python · 공공데이터 분석 · 시각화
+🎮 게임 개발        Unity(C#) · Unreal Engine 5(C++)
+🤖 AI / 시뮬레이션   TTS 모델 · 디지털 휴먼 · 자기파 시뮬레이션
+📱 모바일 개발       Flutter · 크로스플랫폼 앱
+```
+
 ---
 
 ## 🛠️ 기술 스택
@@ -41,6 +51,7 @@
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -58,40 +69,70 @@
 
 ## 📂 프로젝트
 
-### 🌐 웹 개발
+### ⭐ 주요 프로젝트
+
+<div align="center">
+
+[![ai-toolbox-react](https://github-readme-stats.vercel.app/api/pin/?username=lilyth-y&repo=ai-toolbox-react&theme=tokyonight&hide_border=true)](https://github.com/lilyth-y/ai-toolbox-react)
+[![nexus-neuro-twin](https://github-readme-stats.vercel.app/api/pin/?username=lilyth-y&repo=nexus-neuro-twin&theme=tokyonight&hide_border=true)](https://github.com/lilyth-y/nexus-neuro-twin)
+
+[![library-simulator](https://github-readme-stats.vercel.app/api/pin/?username=lilyth-y&repo=library-simulator&theme=tokyonight&hide_border=true)](https://github.com/lilyth-y/library-simulator)
+[![drill-fragn-unity](https://github-readme-stats.vercel.app/api/pin/?username=lilyth-y&repo=drill-fragn-unity&theme=tokyonight&hide_border=true)](https://github.com/lilyth-y/drill-fragn-unity)
+
+</div>
+
+#### 🔹 AI Toolbox & Learning Hub
+
+> AI 도구 추천 위자드 + 프롬프트 엔지니어링 실습 환경 + 학습 허브를 제공하는 웹 플랫폼
+
+- 역할·목표 기반 AI 도구 추천 (ChatGPT, Cursor, Midjourney 등)
+- 실시간 프롬프트 최적화 랩 (Google Gemini API 연동)
+- RTF / CO-STAR 프레임워크 학습 콘텐츠
+- `TypeScript` `React` `Gemini API` `Dark/Light Mode`
+
+#### 🔹 Nexus Neuro-Twin
+
+> 디지털 휴먼 + MuMax3 자기파(Magnonic) 시뮬레이션 시스템
+
+- Neuro-Twin 디지털 휴먼 시뮬레이션
+- MuMax3 기반 자기파 물리 시뮬레이션
+- `React` `Vite` `Python` `Docker`
+
+#### 🔹 Library Simulator
+
+> Unreal Engine 5 기반 물리 시뮬레이션 도서관 관리 게임
+
+- 물리 기반 도서 적재 시스템 (PhysicsHandle)
+- 적대적 NPC AI 패턴 & 미션 시스템
+- 통합 도서 검색 데이터베이스
+- `Unreal Engine 5` `C++` `Blueprints`
+
+#### 🔹 Drill Fragn: Void Genesis
+
+> 2D 그리드 기반 식민지 시뮬레이션 — 채굴, 건설, 생존
+
+- 절차적 지형 생성 & 자원 채굴 시스템
+- 산소·식량·온도·스트레스 생존 관리
+- Void Gate 탈출 엔딩 시스템
+- `Unity` `C#`
+
+---
+
+### 🌐 웹 & 모바일
 
 | 프로젝트 | 설명 | 기술 스택 |
 |---------|------|----------|
-| [**public-talent-web**](https://github.com/lilyth-y/public-talent-web) | 한신대 공공인재학부(공공인재빅데이터융합학) 학과 홈페이지 | JavaScript, HTML, CSS |
-| [**ai-toolbox-react**](https://github.com/lilyth-y/ai-toolbox-react) | AI 도구 모음 React 웹 애플리케이션 | TypeScript, React, HTML, CSS |
+| [**public-talent-web**](https://github.com/lilyth-y/public-talent-web) | 한신대 공공인재학부 학과 홈페이지 | JavaScript, HTML, CSS |
 | [**nexus-enterprise-landing**](https://github.com/lilyth-y/nexus-enterprise-landing) | Nexus Enterprise 랜딩 페이지 | JavaScript, CSS, HTML |
+| [**wherewemeet**](https://github.com/lilyth-y/wherewemeet) | 모임 장소 추천 백엔드 & 크로스플랫폼 앱 | Flutter, Backend |
 
-### 🤖 AI & 시뮬레이션
-
-| 프로젝트 | 설명 | 기술 스택 |
-|---------|------|----------|
-| [**nexus-neuro-twin**](https://github.com/lilyth-y/nexus-neuro-twin) | Neuro-Twin Digital Human with MuMax3 Magnonic Simulation | JavaScript, Python, CSS, Docker |
-| [**zonos**](https://github.com/lilyth-y/zonos) | AI/ML 프로젝트 | Python, Docker |
-
-### 📱 모바일 & 백엔드
+### 📊 데이터 분석 & AI
 
 | 프로젝트 | 설명 | 기술 스택 |
 |---------|------|----------|
-| [**wherewemeet**](https://github.com/lilyth-y/wherewemeet) | WhereWeMeet - 모임 장소 추천 백엔드 & Flutter 앱 | Flutter, Backend |
-
-### 🎮 게임 개발
-
-| 프로젝트 | 설명 | 기술 스택 |
-|---------|------|----------|
-| [**dataescape**](https://github.com/lilyth-y/dataescape) | 데이터 탈출 게임 | C#, Unity |
-| [**drill-fragn-unity**](https://github.com/lilyth-y/drill-fragn-unity) | Drill Fragn - Unity 게임 프로젝트 | C#, Unity |
-
-### 📊 데이터 분석 & 연구
-
-| 프로젝트 | 설명 | 기술 스택 |
-|---------|------|----------|
-| [**mental_health_care_Hwasung**](https://github.com/lilyth-y/mental_health_care_Hwasung) | 화성시 정신건강 돌봄 데이터 분석 프로젝트 | Data Analysis |
-| [**library-simulator**](https://github.com/lilyth-y/library-simulator) | 도서관 시뮬레이터 | C++, C |
+| [**zonos**](https://github.com/lilyth-y/zonos) | Zonos TTS — 200K+ 시간 다국어 음성 데이터 기반 텍스트-투-스피치 모델 | Python, Docker |
+| [**mental_health_care_Hwasung**](https://github.com/lilyth-y/mental_health_care_Hwasung) | 화성시 정신건강 돌봄 데이터 분석 프로젝트 | Python, Data Analysis |
+| [**dataescape**](https://github.com/lilyth-y/dataescape) | 데이터 탈출 — 데이터 리터러시 교육용 게임 | C#, Unity |
 
 ---
 
