@@ -10,13 +10,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 소개
 
 한신대학교 공공인재학부(공공인재빅데이터융합학) 전공으로, 웹 개발부터 데이터 분석, 게임 개발, AI 시뮬레이션까지 폭넓은 기술 경험을 보유하고 있습니다. 다양한 프로젝트를 통해 **풀스택 개발**과 **빅데이터 분석** 역량을 키워왔습니다.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 기술 스택
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -47,7 +47,15 @@
 
 ---
 
-## 📂 Projects
+## 🎓 학력
+
+| 학교 | 학부 / 전공 | 기간 |
+|-----|-----------|------|
+| 한신대학교 | 공공인재학부 (공공인재빅데이터융합학) | 2021.03 ~ |
+
+---
+
+## 📂 프로젝트
 
 ### 🌐 웹 개발
 
@@ -128,12 +136,6 @@
 
 ---
 
-## 🎓 Education
-
-- **한신대학교** — 공공인재학부 (공공인재빅데이터융합학) 전공
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -143,6 +145,16 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilyth-y&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+## 📬 연락처
+
+[![GitHub](https://img.shields.io/badge/GitHub-lilyth--y-181717?style=flat-square&logo=github)](https://github.com/lilyth-y)
+<!-- [![Email](https://img.shields.io/badge/Email-your@email.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com) -->
+<!-- [![Blog](https://img.shields.io/badge/Blog-your.blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://your.blog) -->
+
+> 이메일, 블로그 등 추가 연락처가 있으면 위 주석을 해제하고 수정해주세요.
 
 ---
 
